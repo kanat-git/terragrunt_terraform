@@ -1,0 +1,4 @@
+# Ignores terraform files and folders
+.terraform/*
+frontend-app/.terraform/*
+mysql/.terraform/*
